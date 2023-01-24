@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/footly/static/css/main.f7c8f087.css",
+    "main.js": "/footly/static/js/main.9d65829a.js",
+    "static/js/787.10ab6577.chunk.js": "/footly/static/js/787.10ab6577.chunk.js",
+    "static/media/Rubik-Regular.ttf": "/footly/static/media/Rubik-Regular.974ab100afa4538622da.ttf",
+    "static/media/BebasNeue-Regular.ttf": "/footly/static/media/BebasNeue-Regular.12e3683f9192436a7be8.ttf",
+    "index.html": "/footly/index.html",
+    "main.f7c8f087.css.map": "/footly/static/css/main.f7c8f087.css.map",
+    "main.9d65829a.js.map": "/footly/static/js/main.9d65829a.js.map",
+    "787.10ab6577.chunk.js.map": "/footly/static/js/787.10ab6577.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7c8f087.css",
+    "static/js/main.9d65829a.js"
+  ]
+}
